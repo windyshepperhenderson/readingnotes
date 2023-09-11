@@ -8,7 +8,7 @@ Markdown is a lightweight markup language that you can use to add formatting ele
 
 Using Markdown is different than using a WYSIWYG editor. In an application like Microsoft Word, you click buttons to format words and phrases, and the changes are visible immediately. Markdown isn’t like that. When you create a Markdown-formatted file, you add Markdown syntax to the text to indicate which words and phrases should look different.
 
-** Why do we use Markdown?
+**Why do we use Markdown?**
 
 You might be wondering why people use Markdown instead of a WYSIWYG editor. Why write with Markdown when you can press buttons in an interface to format your text? As it turns out, there are several reasons why people use Markdown instead of WYSIWYG editors.
 
@@ -22,23 +22,23 @@ Markdown is future proof. Even if the application you’re using stops working a
 
 Markdown is everywhere. Websites like Reddit and GitHub support Markdown, and lots of desktop and web-based applications support it.
 
-What symbol will create a heading in Markdown?
+**What symbol will create a heading in Markdown?**
 
 #, ##, ###
 
-How many do you need to create the largest heading?
+**How many do you need to create the largest heading?**
 
 #
 
-How many do you need to create the smallest heading?
+**How many do you need to create the smallest heading?**
 
 ###
 
-When making text bold or italicized for emphasis, it is best practice to use which symbol?
+**When making text bold or italicized for emphasis, it is best practice to use which symbol?**
 
 *
 
-How do you create a link with Markdown?
+**How do you create a link with Markdown?**
 
 To create a link, enclose the link text in brackets (e.g., [Duck Duck Go]) and then follow it immediately with the URL in parentheses (e.g., (https://duckduckgo.com)).
 
@@ -48,6 +48,6 @@ The rendered output looks like this:
 My favorite search engine is Duck Duck Go.
 
 
-What are the three symbols you can use to create an unordered (bulleted) list with Markdown?
+**What are the three symbols you can use to create an unordered (bulleted) list with Markdown?**
 
 -, *, +
