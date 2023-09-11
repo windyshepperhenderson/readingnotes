@@ -29,5 +29,7 @@ Why not visit my [webpage](https://github.com/windyshepperhenderson)
 
 Find out more about me [here](https://en.wikipedia.org/wiki/Superman) or [here](/mybio)
 
+What I learned on [Day 1](/day1.md)
+
 
 
