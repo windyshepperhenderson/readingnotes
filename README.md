@@ -29,7 +29,7 @@ Why not visit my [webpage](https://github.com/windyshepperhenderson)
 
 Find out more about me [here](https://en.wikipedia.org/wiki/Superman) or [here](/mybio.md)
 
-What I learned on Day 1 [markdown](/day1.md) and [Linux](/thecoderscomputer)
+What I learned on Day 1 [markdown](/day1.md) and [Linux](/thecoderscomputer.md)
 
 
 
