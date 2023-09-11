@@ -20,7 +20,7 @@ We all have had the feelings listed above at some point but they tend to lead us
 
 **SO KEEP ON TRUCKING ON 😃**
 
-!(https://media.tenor.com/OHVIbjww5qgAAAAC/whistl-in-diesel-truck.gif))
+![Truck breaking down.](/whistl-in-diesel-truck.gif)
 
 
 
