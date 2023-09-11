@@ -28,11 +28,11 @@ Markdown is everywhere. Websites like Reddit and GitHub support Markdown, and lo
 
 **How many do you need to create the largest heading?**
 
-1
+One
 
 **How many do you need to create the smallest heading?**
 
-3
+Three
 
 **When making text bold or italicized for emphasis, it is best practice to use which symbol?**
 
