@@ -6,7 +6,7 @@
 
 ~~I'm not clever enough, this is for people much smarter than me~~
 
-~~This is too stressfull, why is it only others that can handle this?~~
+~~This is too stressful, why is it only others that can handle this?~~
 
 We all have had the feelings listed above at some point but they tend to lead us down an emotional alley where we find it difficult to see that we are actually learning as we go and that we are always learning.  So lets ask again.
 
@@ -16,7 +16,7 @@ We all have had the feelings listed above at some point but they tend to lead us
 
 - Ability is not fixed but can change with time and effort
 - Staying emotionally calm, though difficult in frustrating times can be beneficial to learning
-- Ask for help, read more and experiment
+- Ask for help, read more and experiment. In short, fail better.
 
 **SO KEEP ON TRUCKING ON 😃**
 
