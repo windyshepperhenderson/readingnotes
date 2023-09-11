@@ -20,7 +20,7 @@ We all have had the feelings listed above at some point but they tend to lead us
 
 **SO KEEP ON TRUCKING ON 😃**
 
-Why not visit my webpage here
-(https://github.com/windyshepperhenderson)https://github.com/windyshepperhenderson)
+Why not visit my [webpage](https://github.com/windyshepperhenderson)
+
 
 
