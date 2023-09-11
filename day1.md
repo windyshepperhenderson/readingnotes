@@ -1,6 +1,6 @@
 # What I learned about Markdown on Day 1
 
- ## Below i will discuss the following questions
+ ## Below i will discuss the following questions ##
 
 **What is Markdown?**
 
