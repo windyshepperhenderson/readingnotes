@@ -1,4 +1,4 @@
-# readingnotes
+# READING NOTES
 
 ## What is a Growth Mindset?
 
