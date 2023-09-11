@@ -15,12 +15,12 @@ touch - The touch command is a standard command used in UNIX/Linux operating sys
 
 **Can you explain what is happening in the following scenario if these commands and arguments are entered into the command line? (Arguments are extra instructions given to a command.)**
 
-cd projects - 
+cd projects - change directory to projects
 
-mkdir new-project - 
+mkdir new-project - make directory called new project
 
-touch new-project/newfile.md - 
+touch new-project/newfile.md - update timestamp on markdown page
 
 cd .. - 
 
-ls projects/new-project - 
+ls projects/new-project - list everything in the folder projects/new project
