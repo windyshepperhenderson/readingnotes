@@ -27,7 +27,7 @@ We all have had the feelings listed above at some point but they tend to lead us
 
 Why not visit my [webpage](https://github.com/windyshepperhenderson)
 
-Find out more about me [here](https://en.wikipedia.org/wiki/Superman) or [here] (/mybio)
+Find out more about me [here](https://en.wikipedia.org/wiki/Superman) or [here](/mybio)
 
 
 
