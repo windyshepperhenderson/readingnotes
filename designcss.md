@@ -4,6 +4,7 @@ To style your HTML sheet - to add colours, margins, pading, etc
 
 
 What are the three ways to insert CSS into your project?
+
 There are three ways of inserting a style sheet: External CSS, Internal CSS, Inline CSS
 
 
