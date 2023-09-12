@@ -11,10 +11,17 @@ Cloning in git is cloning your file so you can work on it locally.  This allows 
 
 What is the command to track and stage files?
 
+git add .
+
+example.html - The git status command displays the state of the working directory and the staging area. It lets you see which changes have been staged, which haven't, and which files aren't being tracked by Git.
 
 
 What is the command to take a snapshot of your changed files?
 
+x git commit -m "add message to snapshot)
+
 
 
 What is the command to send your changed files to Github?
+
+x git push
