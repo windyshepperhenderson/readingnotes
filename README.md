@@ -31,7 +31,7 @@ Find out more about me [here](https://en.wikipedia.org/wiki/Superman) or [here](
 
 What I learned on Day 1 [Markdown](/day1.md) and [Linux](/thecoderscomputer.md)
 
-What I learned on Day 2 [Cloning from Github](/revisionandthecloud.md)
+What I learned on Day 2 [Cloning from Github](/revisionsandthecloud.md)
 
 
 
