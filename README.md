@@ -33,5 +33,7 @@ What I learned on Day 1 [Markdown](/day1.md) and [Linux](/thecoderscomputer.md)
 
 What I learned on Day 2 [Cloning from Github](/revisionsandthecloud.md) and [HTML](/htmlstructure.md)
 
+What I learned on Day 3 [CSS](/designcss.md)
+
 
 
